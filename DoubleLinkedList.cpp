@@ -210,7 +210,7 @@ int main()
             case '1':
                 addnode(); 
                 break;
-            case '2':
+            case '2': 
                 deleteNode(); 
                 break;  
             case '3':    
