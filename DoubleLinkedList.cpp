@@ -229,7 +229,7 @@ int main()
                 break;
             }
         }
-        catch (exception& e)
+        catch (exception& e) 
         {
             cout << "Check for the values entered." << endl;
         } 
