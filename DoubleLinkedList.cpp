@@ -212,7 +212,7 @@ int main()
                 break;
             case '2':
                 deleteNode(); 
-                break; 
+                break;  
             case '3':    
                 traverse();
                 break;
