@@ -220,7 +220,7 @@ int main()
                 revtraverse(); 
                 break;   
             case '5':
-                searchData();
+                searchData(); 
                 break;
             case '6':
                 return 0;
