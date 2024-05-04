@@ -211,7 +211,7 @@ int main()
                 addnode(); 
                 break;
             case '2':
-                deleteNode();
+                deleteNode(); 
                 break; 
             case '3':    
                 traverse();
