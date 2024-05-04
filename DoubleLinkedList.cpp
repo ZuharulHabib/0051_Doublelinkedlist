@@ -217,7 +217,7 @@ int main()
                 traverse();
                 break;
             case '4':
-                revtraverse();  
+                revtraverse();   
                 break;   
             case '5':
                 searchData(); 
